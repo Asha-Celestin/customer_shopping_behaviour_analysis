@@ -62,12 +62,16 @@ The dashboard enables interactive exploration of customer behaviour and purchasi
   
 **📁 Project Structure**
 
-- Business Problem Document.pdf – Defines business objectives and analytical questions  
-- customer_shopping_behavior.csv – Dataset used for analysis  
-- customer_behavior_sql_queries.sql – SQL queries answering business questions  
-- customer_behavior_dashboard.pbix – Interactive Power BI dashboard  
-- README.md – Project documentation  
-- LICENSE – MIT License  
+- Business Problem Document.pdf  → Defines the business objectives and analytical questions
+- Customer Shopping Behavior Analysis.pdf  → Detailed analytical report with insights and findings
+- Customer-Shopping-Behavior-Analysis.pptx  → Presentation summarizing analysis and key insights
+- Customer Behavior Dashboard.pbix  → Interactive Power BI dashboard
+- customer_behaviour.py  → Python script for data cleaning and exploratory data analysis (EDA)
+- Customer_behavior_queries.sql  → SQL queries used to answer business questions
+- customer_cleaned.csv  → Cleaned dataset after preprocessing
+- customer_shopping_behavior.xlsx  → Original dataset used for analysis
+- README.md  → Project documentation
+- LICENSE  → MIT License  
 
 **🎯 What I Learned**
 
